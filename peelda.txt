@@ -1,5 +1,0 @@
-> python ".\generator_v4_FINAL.py" faaaaaaaaaaaab5678aaaaaaaaaaaaabfaaaaaaaaaaaab5678aaaaaaaaaaaaab
-
-> python encrypt.py "Teszt üzenet: 'V4 végleges verzió! Tökéletes avalanche! 🔥'"
-
-> python decrypt.py af76d2e8787aad215eb048fd916e8f2fa4508ce4b6716cd3c9545717259e8b7c1cd83e1be53bb1a8e6aa9b7b8153a357eeb7398b9acebc2210edb133efd14520eed2
