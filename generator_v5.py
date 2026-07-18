@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Ultra-Stealth Standalone Titkosító Generátor V4
+Ultra-Stealth Standalone Titkosító Generátor V5
 ================================================
 VÉGLEGES VERZIÓ - TÖKÉLETES AVALANCHE:
   - 20-30 kör (masszív lavina hatás)
